@@ -1,3 +1,3 @@
-INSERT INTO tb_customer (name, amount) VALUES ('Bob', 200.0);
-INSERT INTO tb_customer (name, amount) VALUES ('Maria', 300.0);
-INSERT INTO tb_customer (name, amount) VALUES ('Alex', 250.0); 
+INSERT INTO tb_customer (name, amount) VALUES ('Robert Smith', 200.0);
+INSERT INTO tb_customer (name, amount) VALUES ('Marylin Hallowey', 300.0);
+INSERT INTO tb_customer (name, amount) VALUES ('Alexander Dadario', 250.0);
